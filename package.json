@@ -1,0 +1,24 @@
+{
+  "name": "destinyapi-tryout",
+  "version": "1.0.0",
+  "description": "- this is a simple NodeJS app to test out bungie's Destiny 2 API",
+  "main": "./src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylemorton5770/DestinyAPI-TryOut.git"
+  },
+  "author": "Kyle Morton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kylemorton5770/DestinyAPI-TryOut/issues"
+  },
+  "homepage": "https://github.com/kylemorton5770/DestinyAPI-TryOut#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.4"
+  }
+}

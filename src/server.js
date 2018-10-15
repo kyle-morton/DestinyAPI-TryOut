@@ -1,0 +1,1 @@
+console.log('destiny api is up and running...');
